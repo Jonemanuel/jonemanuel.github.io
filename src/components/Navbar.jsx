@@ -208,7 +208,7 @@ const Navbar = () => {
                         GitHub Profile
                     </GithubButton>
                     <WhatsappButton 
-                        href="https://wa.me/5521981319837?text=Ol%C3%A1%2C%20fiquei%20interessado%20nos%20seus%20servi%C3%A7os.%20" 
+                        href="https://wa.me/5521967828809?text=Ol%C3%A1%2C%20fiquei%20interessado%20nos%20seus%20servi%C3%A7os.%20" 
                         target="_blank"
                     >
                         WhatsApp
