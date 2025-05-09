@@ -625,7 +625,19 @@ export const projects = [
     webapp: "https://github.com/Jonemanuel/street-fighter-selection?tab=readme-ov-file",
   },
 
-
+  {
+    id: 12,
+    title: "IPTV-Master",
+    date: "2025",
+    description:
+      "IPTV Master – Aplicativo de IPTV desenvolvido em React que permite a reprodução de playlists M3U com uma interface limpa, intuitiva e responsiva. O projeto oferece suporte a múltiplos formatos de vídeo e funcionalidades como seleção de canais e organização personalizada.",
+    image:
+      "https://github.com/Jonemanuel/IPTV-Master/blob/main/src/assets/Tela.png?raw=true",
+    tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
+    category: "web app",
+    github: "https://github.com/Jonemanuel/IPTV-Master",
+    webapp: "https://github.com/Jonemanuel/IPTV-Master",
+  },
 
 
 ];
