@@ -584,7 +584,7 @@ export const projects = [
   },
 
   {
-    id: 7,
+    id: 11,
     title: "Clone Instagram",
     date: "2024",
     description:
@@ -596,6 +596,37 @@ export const projects = [
     github: "https://github.com/Jonemanuel/Instagram-Clone",
     webapp: "https://github.com/Jonemanuel/Instagram-Clone",
   },
+
+  {
+    id: 8,
+    title: "Bella Coffe",
+    date: "2025",
+    description:
+      "Bella Caffè is a modern and responsive landing page built with HTML, CSS, and JavaScript. Designed to reflect the elegance and charm of the brand, the page features smooth navigation, mobile-friendly layout, and a visual style inspired by social media platforms like Instagram. With clean animations and an inviting interface, it’s ideal for showcasing products, attracting customers, and strengthening the café’s visual identity.",
+    image:
+      "https://github.com/Jonemanuel/BelleCoffe/blob/main/asssets/part1.png?raw=true",
+    tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
+    category: "web app",
+    github: "https://github.com/Jonemanuel/BelleCoffe",
+    webapp: "https://github.com/Jonemanuel/BelleCoffe",
+  },
+
+  {
+    id: 9,
+    title: "Street fighter",
+    date: "2025",
+    description:
+      "This project is a tribute to classic video games, recreated using only pure HTML, CSS and JavaScript!Inspired by the iconic Street Fighter, the goal was to bring the vibrant energy of fighting games to the world of the web.",
+    image:
+      "https://github.com/Jonemanuel/street-fighter-selection/blob/main/image/street-fighter-preview.png?raw=true",
+    tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
+    category: "web app",
+    github: "https://github.com/Jonemanuel/street-fighter-selection?tab=readme-ov-file",
+    webapp: "https://github.com/Jonemanuel/street-fighter-selection?tab=readme-ov-file",
+  },
+
+
+
 
 ];
 
